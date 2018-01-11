@@ -352,6 +352,13 @@ header {
     border-radius: 25%;
 }
 
+.box.js--wp-26 h3 {
+    text-transform: uppercase;
+    /*letter-spacing: 2px;
+    word-spacing: 3px;*/
+    line-height: 45px;
+}
+
 /* Footer sections */
 
 .social-links {

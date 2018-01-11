@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,23 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="318" column="37" lean-forward="true" selection-start-line="318" selection-start-column="37" selection-end-line="318" selection-end-column="37" />
+            <state relative-caret-position="600">
+              <caret line="319" column="34" lean-forward="true" selection-start-line="319" selection-start-column="24" selection-end-line="319" selection-end-column="37" />
               <folding>
-                <element signature="e#12850#12856#0" expanded="true" />
+                <element signature="e#12828#12834#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="987">
-              <caret line="562" column="0" lean-forward="true" selection-start-line="562" selection-start-column="0" selection-end-line="562" selection-end-column="0" />
+            <state relative-caret-position="602">
+              <caret line="358" column="22" lean-forward="false" selection-start-line="358" selection-start-column="22" selection-end-line="358" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -166,7 +165,7 @@
       <workItem from="1515415889370" duration="12945000" />
       <workItem from="1515508730980" duration="61000" />
       <workItem from="1515516136701" duration="118000" />
-      <workItem from="1515656219515" duration="16403000" />
+      <workItem from="1515656219515" duration="16912000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Complete layout of the website&quot;">
       <created>1515666970797</created>
@@ -175,11 +174,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515666970797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Added animations to the website&quot;">
+      <created>1515676378213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515676378213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33098000" />
+    <option name="totallyTimeSpent" value="33607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="31" width="3840" height="2129" extended-state="6" />
@@ -213,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Complete layout of the website&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Complete layout of the website&quot;" />
+    <MESSAGE value="&quot;Added animations to the website&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added animations to the website&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -225,7 +232,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12850#12856#0" expanded="true" />
+            <element signature="e#12828#12834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -243,7 +250,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12850#12856#0" expanded="true" />
+            <element signature="e#12828#12834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -261,7 +268,7 @@
         <state relative-caret-position="15600">
           <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
           <folding>
-            <element signature="e#12850#12856#0" expanded="true" />
+            <element signature="e#12828#12834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -279,7 +286,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12850#12856#0" expanded="true" />
+            <element signature="e#12828#12834#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -313,21 +320,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="562" column="0" lean-forward="true" selection-start-line="562" selection-start-column="0" selection-end-line="562" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="319" column="34" lean-forward="true" selection-start-line="319" selection-start-column="24" selection-end-line="319" selection-end-column="37" />
+          <folding>
+            <element signature="e#12828#12834#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="318" column="37" lean-forward="true" selection-start-line="318" selection-start-column="37" selection-end-line="318" selection-end-column="37" />
-          <folding>
-            <element signature="e#12850#12856#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="602">
+          <caret line="358" column="22" lean-forward="false" selection-start-line="358" selection-start-column="22" selection-end-line="358" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
