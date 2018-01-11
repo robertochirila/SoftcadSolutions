@@ -4,6 +4,7 @@
     <list default="true" id="29bac05a-09e6-4f46-9d7a-a9f7f312a38d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/css/queries.css" afterPath="$PROJECT_DIR$/css/queries.css" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,20 +22,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="319" column="34" lean-forward="true" selection-start-line="319" selection-start-column="24" selection-end-line="319" selection-end-column="37" />
+            <state relative-caret-position="540">
+              <caret line="294" column="14" lean-forward="true" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
               <folding>
-                <element signature="e#12828#12834#0" expanded="true" />
+                <element signature="e#12985#12991#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="queries.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/queries.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="88" column="24" lean-forward="false" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="358" column="22" lean-forward="false" selection-start-line="358" selection-start-column="22" selection-end-line="358" selection-end-column="22" />
+            <state relative-caret-position="-720">
+              <caret line="336" column="19" lean-forward="true" selection-start-line="336" selection-start-column="19" selection-end-line="336" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/queries.css" />
       </list>
     </option>
   </component>
@@ -78,7 +90,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1920" />
     <option name="y" value="31" />
     <option name="width" value="1920" />
@@ -113,11 +125,6 @@
               <item name="SoftcadSolutions" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoftcadSolutions" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SoftcadSolutions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SoftcadSolutions" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SoftcadSolutions" type="b2602c69:ProjectViewProjectNode" />
@@ -165,7 +172,7 @@
       <workItem from="1515415889370" duration="12945000" />
       <workItem from="1515508730980" duration="61000" />
       <workItem from="1515516136701" duration="118000" />
-      <workItem from="1515656219515" duration="16912000" />
+      <workItem from="1515656219515" duration="21188000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;Complete layout of the website&quot;">
       <created>1515666970797</created>
@@ -181,17 +188,24 @@
       <option name="project" value="LOCAL" />
       <updated>1515676378213</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Minor changes&quot;">
+      <created>1515676880079</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515676880079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33607000" />
+    <option name="totallyTimeSpent" value="37883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="31" width="3840" height="2129" extended-state="6" />
+    <frame x="1920" y="31" width="1920" height="2129" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30729166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11408297" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -220,7 +234,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Complete layout of the website&quot;" />
     <MESSAGE value="&quot;Added animations to the website&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added animations to the website&quot;" />
+    <MESSAGE value="&quot;Minor changes&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Minor changes&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -232,7 +247,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12828#12834#0" expanded="true" />
+            <element signature="e#12985#12991#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -250,7 +265,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12828#12834#0" expanded="true" />
+            <element signature="e#12985#12991#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -268,7 +283,7 @@
         <state relative-caret-position="15600">
           <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
           <folding>
-            <element signature="e#12828#12834#0" expanded="true" />
+            <element signature="e#12985#12991#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -286,7 +301,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12828#12834#0" expanded="true" />
+            <element signature="e#12985#12991#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -322,18 +337,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="319" column="34" lean-forward="true" selection-start-line="319" selection-start-column="24" selection-end-line="319" selection-end-column="37" />
+        <state relative-caret-position="540">
+          <caret line="294" column="14" lean-forward="true" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
           <folding>
-            <element signature="e#12828#12834#0" expanded="true" />
+            <element signature="e#12985#12991#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="358" column="22" lean-forward="false" selection-start-line="358" selection-start-column="22" selection-end-line="358" selection-end-column="22" />
+        <state relative-caret-position="-720">
+          <caret line="336" column="19" lean-forward="true" selection-start-line="336" selection-start-column="19" selection-end-line="336" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/queries.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="88" column="24" lean-forward="false" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
           <folding />
         </state>
       </provider>

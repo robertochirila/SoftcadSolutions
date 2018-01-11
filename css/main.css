@@ -333,6 +333,16 @@ header {
     height: auto;
 }
 
+.partners-logo {
+    display: block;
+    margin: 0 auto;
+    transition: transform 0.5s;
+}
+
+.partners-logo:hover {
+    transform: scale(1.3);
+}
+
 /* Location section */
 
 .section-location {
