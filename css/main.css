@@ -50,7 +50,7 @@ h2 {
     text-transform: uppercase;
     color: #555;
     margin: 0;
-    padding-top: 10px;
+    padding-top: 40px;
 }
 
 h3 {
@@ -165,7 +165,11 @@ header {
 
 .section-services {
     /*background-image: linear-gradient(to right, rgba(36, 135, 201, 0.1), rgba(36, 135, 201, 0.7));*/
-    background-image: linear-gradient(to bottom, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.3));
+    /*background-image: linear-gradient(to bottom, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.3));*/
+    background-color: #eaeaff;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .services-description {
@@ -173,7 +177,7 @@ header {
     width: 70%;
     margin-left: 15%;
     font-size: 120%;
-    color: #555;
+    color: #2c3e50;
 }
 
 .naval-projects {
@@ -213,7 +217,29 @@ header {
 /* Naval section */
 .section-naval-projects {
     padding: 0;
-    background-image: linear-gradient(to right top, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.9));
+    /*background-image: linear-gradient(to right top, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.9));*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.6)), url("../img/scs_headerShip2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.section-naval-projects h3, p {
+    color: white;
+}
+
+.section-naval-projects h3 {
+    letter-spacing: 3px;
+    word-spacing: 4px;
+}
+
+.section-naval-projects p {
+    letter-spacing: 5px;
+    word-spacing: 6px;
+}
+
+.section-naval-projects h2 {
+    color: white;
 }
 
 .naval-projects-showcase {
@@ -258,7 +284,12 @@ header {
 /* Software section */
 .section-software-projects {
     padding: 0;
-    background-image: linear-gradient(to right bottom, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.9));
+    /*background-image: linear-gradient(to right bottom, rgba(36, 135, 201, 0), rgba(36, 135, 201, 0.9));*/
+    /*background-image: linear-gradient(rgba(0, 0, 47, 0.3), rgba(0, 0, 47, 0.9));*/
+    background-color: #eaeaff;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .software-projects-showcase {
@@ -272,10 +303,18 @@ header {
     float: left;
 }
 
+.section-software-projects p, h3 {
+    color: #2c3e50;
+}
+
 /* Partners section */
 
 .section-partners {
     padding: 0;
+    background-color: #eaeaff;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .partners-showcase {
@@ -298,6 +337,14 @@ header {
 
 .section-location {
     padding: 0;
+    background-color: #eaeaff;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.section-location p {
+    color: #2c3e50;
 }
 
 .location-photo {
@@ -320,7 +367,199 @@ footer {
     background-color: #34495e;
 }
 
+/* animations */
 
+.js--wp-1 {
+    opacity: 0;
+}
+
+.js--wp-1.animated {
+    opacity: 1;
+}
+
+.js--wp-2 {
+    opacity: 0;
+}
+
+.js--wp-2.animated {
+    opacity: 1;
+}
+
+.js--wp-3 {
+    opacity: 0;
+}
+
+.js--wp-3.animated {
+    opacity: 1;
+}
+
+.js--wp-4 {
+    opacity: 0;
+}
+
+.js--wp-4.animated {
+    opacity: 1;
+}
+
+.js--wp-5 {
+    opacity: 0;
+}
+
+.js--wp-5.animated {
+    opacity: 1;
+}
+
+.js--wp-6 {
+    opacity: 0;
+}
+
+.js--wp-6.animated {
+    opacity: 1;
+}
+
+.js--wp-7 {
+    opacity: 0;
+}
+
+.js--wp-7.animated {
+    opacity: 1;
+}
+
+.js--wp-8 {
+    opacity: 0;
+}
+
+.js--wp-8.animated {
+    opacity: 1;
+}
+
+.js--wp-9 {
+    opacity: 0;
+}
+
+.js--wp-9.animated {
+    opacity: 1;
+}
+
+.js--wp-10 {
+    opacity: 0;
+}
+
+.js--wp-10.animated {
+    opacity: 1;
+}
+
+.js--wp-11 {
+    opacity: 0;
+}
+
+.js--wp-11.animated {
+    opacity: 1;
+}
+
+.js--wp-12 {
+    opacity: 0;
+}
+
+.js--wp-12.animated {
+    opacity: 1;
+}
+
+.js--wp-13 {
+    opacity: 0;
+}
+
+.js--wp-13.animated {
+    opacity: 1;
+}
+
+.js--wp-14 {
+    opacity: 0;
+}
+
+.js--wp-14.animated {
+    opacity: 1;
+}
+
+.js--wp-15 {
+    opacity: 0;
+}
+
+.js--wp-15.animated {
+    opacity: 1;
+}
+
+.js--wp-16 {
+    opacity: 0;
+}
+
+.js--wp-16.animated {
+    opacity: 1;
+}
+
+.js--wp-17 {
+    opacity: 0;
+}
+
+.js--wp-17.animated {
+    opacity: 1;
+}
+
+.js--wp-18 {
+    opacity: 0;
+}
+
+.js--wp-18.animated {
+    opacity: 1;
+}
+
+.js--wp-19 {
+    opacity: 0;
+}
+
+.js--wp-19.animated {
+    opacity: 1;
+}
+
+.js--wp-20 {
+    opacity: 0;
+}
+
+.js--wp-20.animated {
+    opacity: 1;
+}
+
+.js--wp-21 {
+    opacity: 0;
+}
+
+.js--wp-21.animated {
+    opacity: 1;
+}
+
+.js--wp-22 {
+    opacity: 0;
+}
+
+.js--wp-22.animated {
+    opacity: 1;
+}
+
+.js--wp-23 {
+    opacity: 0;
+}
+
+.js--wp-23.animated {
+    opacity: 1;
+}
+
+.js--wp-24 {
+    opacity: 0;
+}
+
+.js--wp-24.animated {
+    opacity: 1;
+}
 
 
 
