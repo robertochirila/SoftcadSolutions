@@ -13,9 +13,8 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/ionicons.min.css">
-    <!--<link rel="stylesheet" href="css/queries.css">-->
     <link rel="stylesheet" href="css/Grid.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
 <body>
@@ -28,26 +27,27 @@
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-<header>
+<script src="js/script.js"></script>
+<header class="js--home">
     <nav class="sticky">
         <div class="row">
-            <img src="icon.png" class="logo">
+            <!--<img src="icon.png" class="logo">-->
             <ul class="main-nav">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Partners</a></li>
-                <li><a href="#">Location</a></li>
+                <li><a href="#" class="js--scroll-to-home">Home</a></li>
+                <li><a href="#" class="js--scroll-to-services">Services</a></li>
+                <li><a href="#" class="js--scroll-to-projects">Projects</a></li>
+                <li><a href="#" class="js--scroll-to-partners">Partners</a></li>
+                <li><a href="#" class="js--scroll-to-location">Location</a></li>
             </ul>
         </div>
     </nav>
     <div class="header-text-box">
         <h1>Softcad Solutions <br> Designing ships and custom software<br> since 2002.</h1>
-        <a class="btn btn-show">Show me More</a>
+        <a class="btn btn-show js--scroll-to-services" href="#">Show me More</a>
     </div>
 </header>
 
-<section class="section-services">
+<section class="section-services js--services">
     <div class="row">
         <div class="box">
             <h2>From designing ships to developing custom software.</h2>
@@ -86,7 +86,7 @@
         </div>
     </div>
 </section>
-<section class="section-naval-projects">
+<section class="section-naval-projects js--naval-projects">
     <h2>Naval Projects</h2>
     <div class="row">
         <div class="col span-1-of-2">
@@ -168,7 +168,7 @@
     </div>
 
 </section>
-<section class="section-software-projects">
+<section class="section-software-projects js--software-projects">
     <div class="row">
         <h2>Software Projects</h2>
     </div>
@@ -251,14 +251,87 @@
         </div>
     </div>
 </section>
-<section class="section-partners">
+<section class="section-partners js--partners">
+    <div class="row">
+        <h2>Our Partners</h2>
+    </div>
+
+    <div class="row">
+        <div class="col span-1-of-2">
+            <div class="box">
+                <ul class="partners-showcase clearfix">
+                    <li>
+                        <figure class="partners-photo">
+                            <img src="./img/scs_partners1.png">
+                        </figure>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col span-1-of-2">
+            <div class="box">
+                <ul class="partners-showcase clearfix">
+                    <li>
+                        <figure class="partners-photo">
+                            <img src="./img/scs_partners1.png">
+                        </figure>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col span-1-of-2">
+            <div class="box">
+                <ul class="partners-showcase clearfix">
+                    <li>
+                        <figure class="partners-photo">
+                            <img src="./img/scs_partners1.png">
+                        </figure>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col span-1-of-2">
+            <div class="box">
+                <ul class="partners-showcase clearfix">
+                    <li>
+                        <figure class="partners-photo">
+                            <img src="./img/scs_partners1.png">
+                        </figure>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
 </section>
-<section class="section-location">
-
+<section class="section-location js--location">
+    <div class="row">
+        <h2>Location</h2>
+    </div>
+    <div class="row">
+        <div class="col span-1-of-2">
+            <figure>
+                <img src="./img/scs_location.jpg" class="location-photo">
+            </figure>
+        </div>
+        <div class="col span-1-of-2">
+            <div class="box">
+                <p>When the lotus of life witness the booda-hoods of the aspect, the sorrow will know lama.</p>
+                <h3>Contact Email: ochirila@yahoo.com</h3>
+            </div>
+        </div>
+    </div>
 </section>
 <footer>
-
+    <div class="row">
+    </div>
+    <div class="row">
+        <div class="box">
+            <p class="footer-paragraph">Copyright &copy; 2018 by Roberto Chirila. All rights reserved.</p>
+        </div>
+    </div>
 </footer>
 
 </body>

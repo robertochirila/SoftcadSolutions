@@ -272,5 +272,55 @@ header {
     float: left;
 }
 
+/* Partners section */
+
+.section-partners {
+    padding: 0;
+}
+
+.partners-showcase {
+    list-style: none;
+    width: 100%;
+}
+
+.partners-showcase li {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.partners-photo {
+    width: auto;
+    height: auto;
+}
+
+/* Location section */
+
+.section-location {
+    padding: 0;
+}
+
+.location-photo {
+    filter: blur(0.5px);
+    border-radius: 25%;
+}
+
+/* Footer sections */
+
+.social-links {
+    list-style: none;
+    float: right;
+}
+
+.footer-paragraph {
+    color: white;
+}
+
+footer {
+    background-color: #34495e;
+}
+
+
+
 
 
